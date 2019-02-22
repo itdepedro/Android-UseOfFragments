@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TP4</string>
+    <string name="pickDateActivity">Pick date</string>
+    <string name="reset_action">Reset</string>
+    <string name="webSearch">Chercher department</string>
+    <string name="share">Partager</string>
+    <string name="lastname">Nom </string>
+    <string name="hLastname">Dupont</string>
+    <string name="firstname">Prenom</string>
+    <string name="hFirstname">Pierre</string>
+    <string name="date">Date de Nais</string>
+    <string name="hDate">14/01/1995</string>
+    <string name="ville">Department</string>
+    <string name="empty"> </string>
+    <string name="hVille">Other</string>
+    <string name="telephone">Telephone</string>
+    <string name="hTelephone">0621316866</string>
+    <string name="buttonDDN">Sel. DdN</string>
+    <string name="buttonOk">Accepter</string>
+    <string name="buttonCancel">Annuler</string>
+    <string name="SetDate">Saisissez la date</string>
+    <string name="viewNom">Afficher nom</string>
+    <string name="editPrenom">Changer prenom</string>
+    <string name="phoneNumber">Num tel.</string>
+    <string name="buttonApeler">Apeler</string>
+    <string name="DateActivity">Date de naissance</string>
+    <string name="showLastName">Montrer nom</string>
+    <string name="changeFirstName">Changer prenom</string>
+    <string name="writePrenom">Saissisez prenom</string>
+    <string name="plsMessage">Veulliez saisir</string>
+    <string name="wrongDate">Date incorrect</string>
+
+    <string name="item1">Selectionner Departement</string>
+    <string name="item2">Cotes dArmor</string>
+    <string name="item3">Finistere</string>
+    <string name="item4">Ille et Vilaine</string>
+    <string name="item5">Autre</string>
+    <string name="shareText">Partager ce contenu avec</string>
+    <string name="wikiURL"> http://fr.wikipedia.org/?search= </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

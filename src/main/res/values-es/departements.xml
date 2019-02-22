@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="departements">
+        <item>Seleccionar departamento</item>
+        <item>Cotes dArmor</item>
+        <item>Finistere</item>
+        <item>Ille et Vilaine</item>
+        <item>Otro</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EditFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewEF"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/writePrenom" />
+
+        <EditText
+            android:id="@+id/editTextEF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Ignacio"
+            android:inputType="textPersonName" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/buttonEF1"
+                android:layout_width="195dp"
+                android:layout_height="wrap_content"
+                android:text="@string/buttonOk"/>
+
+            <Button
+                android:id="@+id/buttonEF2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/buttonCancel"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</FrameLayout>

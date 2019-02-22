@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/resetAction"
+        android:title="@string/reset_action"
+        android:onClick="resetAction">
+    </item>
+    <item android:id="@+id/webSearch"
+        android:title="@string/webSearch"
+        android:onClick="webSearch">
+    </item>
+    <item android:id="@+id/share"
+        android:title="@string/share"
+        android:onClick="share">
+    </item>
+    <item android:id="@+id/viewNom"
+        android:title="@string/viewNom"
+        android:onClick="viewNom">
+    </item>
+    <item android:id="@+id/editPrenom"
+        android:title="@string/editPrenom"
+        android:onClick="editPrenom">
+    </item>
+</menu>

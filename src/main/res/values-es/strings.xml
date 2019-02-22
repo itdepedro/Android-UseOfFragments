@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TP4</string>
+    <string name="pickDateActivity">Selecc. Fecha</string>
+    <string name="reset_action">Reset</string>
+    <string name="webSearch">Buscar departmento</string>
+    <string name="share">Compartir</string>
+    <string name="lastname">Apellido</string>
+    <string name="hLastname">Dupont</string>
+    <string name="firstname">Nombre</string>
+    <string name="hFirstname">Pierre</string>
+    <string name="date">F. de Nacimiento</string>
+    <string name="hDate">14/01/1995</string>
+    <string name="ville">Departamento</string>
+    <string name="empty"> </string>
+    <string name="hVille">Otro</string>
+    <string name="telephone">Telefono</string>
+    <string name="hTelephone">0621316866</string>
+    <string name="buttonDDN">Sel. FdN</string>
+    <string name="buttonOk">Aceptar</string>
+    <string name="buttonCancel">Cancelar</string>
+    <string name="SetDate">Ingrese fecha</string>
+    <string name="viewNom">Mostrar apellido</string>
+    <string name="editPrenom">Cambiar nombre</string>
+    <string name="phoneNumber">Num tel.</string>
+    <string name="writePrenom">Ingresar nombre</string>
+
+    <string name="buttonApeler">Llamar</string>
+    <string name="DateActivity">Fecha de nacimiento</string>
+    <string name="showLastName">Mostrar Apellido</string>
+    <string name="changeFirstName">Editar nombre</string>
+    <string name="plsMessage">Ingresar</string>
+    <string name="wrongDate">Fecha incorrecta</string>
+
+    <string name="item1">Seleccionar departamento</string>
+    <string name="item2">Cotes dArmor</string>
+    <string name="item3">Finistere</string>
+    <string name="item4">Ille et Vilaine</string>
+    <string name="item5" >Otro</string>
+    <string name="shareText" >Compartir con</string>
+    <string name="wikiURL"> http://es.wikipedia.org/?search= </string>
+
+
+</resources>
